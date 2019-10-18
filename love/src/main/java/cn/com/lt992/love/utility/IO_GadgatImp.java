@@ -16,7 +16,7 @@ public class IO_GadgatImp implements gadget {
      * @return StringBuffer--返回值
      * @throws Exception
      */
-    public StringBuffer BufferedReaderFile(String url, String charName) throws Exception {
+    public StringBuffer BufferedReaderFile(/*String url, String charName*/) throws Exception {
       return new StringBuffer();
     }
     @Override

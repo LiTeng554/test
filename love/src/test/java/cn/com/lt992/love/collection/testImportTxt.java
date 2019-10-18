@@ -1,10 +1,4 @@
-package cn.com.lt992.love.Test;
-
-import org.apache.coyote.http11.InputFilter;
-
-import java.io.*;
-import java.util.HashMap;
-import java.util.Map;
+package cn.com.lt992.love.collection;
 
 public class testImportTxt  {
 
@@ -13,6 +7,8 @@ public class testImportTxt  {
      * @throws Exception
      */
     public void importTxt() throws Exception {
+
+        System.out.printf("13");
 /*
 
         String url = "C:\\Users\\Public\\Desktop\\新建文本文档.txt";
